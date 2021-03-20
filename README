@@ -1,0 +1,8 @@
+Environment:
+    OS: macOS Catalina 10.15.4
+    Python Version: 3.7.7
+    Python Package: numpy 1.17.0
+                    opencv 4.1.1
+                    sklearn 0.22.2
+Usage:
+    $ python image_stitching.py 
